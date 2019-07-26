@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Sync DB
+Plugin Name: WP Sync DB NS
 Description: Export, push, and pull to migrate your WordPress databases.
 Author: Nuno Sarmento
 Version: 1.6
