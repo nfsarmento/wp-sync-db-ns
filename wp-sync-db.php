@@ -2,9 +2,9 @@
 /*
 Plugin Name: WP Sync DB
 Description: Export, push, and pull to migrate your WordPress databases.
-Author: Sean Lang
-Version: 1.5
-Author URI: http://slang.cx
+Author: Nuno Sarmento
+Version: 1.6
+Author URI: https://www.nuno-sarmento.com
 GitHub Plugin URI: wp-sync-db/wp-sync-db
 Network: True
 */
